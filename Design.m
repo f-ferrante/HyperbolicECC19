@@ -115,5 +115,5 @@ W=double(W);
 
 K=double(Y)*inv(W);
 
-gaamma=max(eig(W))*exp(mu/2);
+gamma=max(eig(W))*exp(mu/2);
 
